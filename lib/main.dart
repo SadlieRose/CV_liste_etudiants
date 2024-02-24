@@ -22,7 +22,10 @@ class HomePage extends StatelessWidget {
       'experience': '2 lane',
       'personalInfo': '23 lane ap viv potoprens',
     },
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7bb52eab08f8de8390a8009ec2fc6a89d060db66
     {
       'name': 'Sadlie Rose Indiana Nazaire',
       'jobTitle': 'Analyste de données',
